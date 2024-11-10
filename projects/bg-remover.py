@@ -2,7 +2,7 @@
 # pip install pillow rembg
 
 from PIL import Image
-from rembg import remove
+# from rembg import remove
 
 def remove_background(input_path, output_path):
     # Open the input image
